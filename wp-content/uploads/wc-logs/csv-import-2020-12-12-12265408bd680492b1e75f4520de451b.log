@@ -1,0 +1,194 @@
+2020-12-12T03:00:31+00:00 DEBUG ---[ New Import ] PHP Memory: 384 MB, WP Memory: 40 MB
+2020-12-12T03:00:31+00:00 DEBUG Parsing products CSV.
+2020-12-12T03:00:31+00:00 DEBUG Finished parsing products CSV.
+2020-12-12T03:00:31+00:00 DEBUG ---
+2020-12-12T03:00:31+00:00 DEBUG Processing products.
+2020-12-12T03:00:31+00:00 DEBUG > Row 1 - preparing for import.
+2020-12-12T03:00:31+00:00 DEBUG > Inserting Dip de Pollo Buffalo (1lb)
+2020-12-12T03:00:31+00:00 DEBUG > Inserted - post ID is 19.
+2020-12-12T03:00:31+00:00 DEBUG > Finished importing post ID 19.
+2020-12-12T03:00:31+00:00 DEBUG > Row 2 - preparing for import.
+2020-12-12T03:00:31+00:00 DEBUG > Inserting Dip de carpaccio (1lb)
+2020-12-12T03:00:32+00:00 DEBUG > Inserted - post ID is 20.
+2020-12-12T03:00:32+00:00 DEBUG > Finished importing post ID 20.
+2020-12-12T03:00:32+00:00 DEBUG > Row 3 - preparing for import.
+2020-12-12T03:00:32+00:00 DEBUG > Inserting Dip de alcachofa (1lb)
+2020-12-12T03:00:32+00:00 DEBUG > Inserted - post ID is 21.
+2020-12-12T03:00:32+00:00 DEBUG > Finished importing post ID 21.
+2020-12-12T03:00:32+00:00 DEBUG > Row 4 - preparing for import.
+2020-12-12T03:00:32+00:00 DEBUG > Inserting Dip de chorizo y tocino (1lb)
+2020-12-12T03:00:32+00:00 DEBUG > Inserted - post ID is 22.
+2020-12-12T03:00:32+00:00 DEBUG > Finished importing post ID 22.
+2020-12-12T03:00:32+00:00 DEBUG > Row 5 - preparing for import.
+2020-12-12T03:00:32+00:00 DEBUG > Inserting Dip de 5 layers (1lb)
+2020-12-12T03:00:32+00:00 DEBUG > Inserted - post ID is 23.
+2020-12-12T03:00:32+00:00 DEBUG > Finished importing post ID 23.
+2020-12-12T03:00:32+00:00 DEBUG > Row 6 - preparing for import.
+2020-12-12T03:00:32+00:00 DEBUG > Inserting Hummus (1lb)
+2020-12-12T03:00:32+00:00 DEBUG > Inserted - post ID is 24.
+2020-12-12T03:00:33+00:00 DEBUG > Finished importing post ID 24.
+2020-12-12T03:00:33+00:00 DEBUG > Row 7 - preparing for import.
+2020-12-12T03:00:33+00:00 DEBUG > Inserting Sopa de tortilla  (1 L)
+2020-12-12T03:00:33+00:00 DEBUG > Inserted - post ID is 25.
+2020-12-12T03:00:33+00:00 DEBUG > Finished importing post ID 25.
+2020-12-12T03:00:33+00:00 DEBUG > Row 8 - preparing for import.
+2020-12-12T03:00:33+00:00 DEBUG > Inserting Sopa de tomate  (1 L)
+2020-12-12T03:00:33+00:00 DEBUG > Inserted - post ID is 26.
+2020-12-12T03:00:33+00:00 DEBUG > Finished importing post ID 26.
+2020-12-12T03:00:33+00:00 DEBUG > Row 9 - preparing for import.
+2020-12-12T03:00:33+00:00 DEBUG > Inserting Sopa de frijol  (1 L)
+2020-12-12T03:00:33+00:00 DEBUG > Inserted - post ID is 27.
+2020-12-12T03:00:33+00:00 DEBUG > Finished importing post ID 27.
+2020-12-12T03:00:33+00:00 DEBUG Finished processing products.
+2020-12-12T03:00:34+00:00 DEBUG ---[ New Import ] PHP Memory: 384 MB, WP Memory: 40 MB
+2020-12-12T03:00:34+00:00 DEBUG Parsing products CSV.
+2020-12-12T03:00:34+00:00 DEBUG Finished parsing products CSV.
+2020-12-12T03:00:34+00:00 DEBUG ---
+2020-12-12T03:00:34+00:00 DEBUG Processing products.
+2020-12-12T03:00:34+00:00 DEBUG > Row 1 - preparing for import.
+2020-12-12T03:00:34+00:00 DEBUG > Inserting Lobster Bisque
+2020-12-12T03:00:34+00:00 DEBUG > Inserted - post ID is 28.
+2020-12-12T03:00:34+00:00 DEBUG > Finished importing post ID 28.
+2020-12-12T03:00:34+00:00 DEBUG > Row 2 - preparing for import.
+2020-12-12T03:00:34+00:00 DEBUG > Inserting Enchiladas suizas
+2020-12-12T03:00:34+00:00 DEBUG > Inserted - post ID is 29.
+2020-12-12T03:00:34+00:00 DEBUG > Finished importing post ID 29.
+2020-12-12T03:00:34+00:00 DEBUG > Row 3 - preparing for import.
+2020-12-12T03:00:34+00:00 DEBUG > Inserting Souffle de chuchitos
+2020-12-12T03:00:34+00:00 DEBUG > Inserted - post ID is 30.
+2020-12-12T03:00:34+00:00 DEBUG > Finished importing post ID 30.
+2020-12-12T03:00:34+00:00 DEBUG > Row 4 - preparing for import.
+2020-12-12T03:00:34+00:00 DEBUG > Inserting Lasagna de pollo chipotle
+2020-12-12T03:00:34+00:00 DEBUG > Inserted - post ID is 31.
+2020-12-12T03:00:35+00:00 DEBUG > Finished importing post ID 31.
+2020-12-12T03:00:35+00:00 DEBUG > Row 5 - preparing for import.
+2020-12-12T03:00:35+00:00 DEBUG > Inserting Lasagna de pollo en salsa blanca
+2020-12-12T03:00:35+00:00 DEBUG > Inserted - post ID is 32.
+2020-12-12T03:00:35+00:00 DEBUG > Finished importing post ID 32.
+2020-12-12T03:00:35+00:00 DEBUG > Row 6 - preparing for import.
+2020-12-12T03:00:35+00:00 DEBUG > Inserting Lasagna Boloñesa
+2020-12-12T03:00:35+00:00 DEBUG > Inserted - post ID is 33.
+2020-12-12T03:00:35+00:00 DEBUG > Finished importing post ID 33.
+2020-12-12T03:00:35+00:00 DEBUG > Row 7 - preparing for import.
+2020-12-12T03:00:35+00:00 DEBUG > Inserting Lasagna espinaca ricotta
+2020-12-12T03:00:35+00:00 DEBUG > Inserted - post ID is 34.
+2020-12-12T03:00:35+00:00 DEBUG > Finished importing post ID 34.
+2020-12-12T03:00:35+00:00 DEBUG > Row 8 - preparing for import.
+2020-12-12T03:00:35+00:00 DEBUG > Inserting Pollo pibil (1lb)
+2020-12-12T03:00:35+00:00 DEBUG > Inserted - post ID is 35.
+2020-12-12T03:00:35+00:00 DEBUG > Finished importing post ID 35.
+2020-12-12T03:00:35+00:00 DEBUG > Row 9 - preparing for import.
+2020-12-12T03:00:35+00:00 DEBUG > Inserting Cochinita pibil (1lb)
+2020-12-12T03:00:35+00:00 DEBUG > Inserted - post ID is 36.
+2020-12-12T03:00:36+00:00 DEBUG > Finished importing post ID 36.
+2020-12-12T03:00:36+00:00 DEBUG > Row 10 - preparing for import.
+2020-12-12T03:00:36+00:00 DEBUG > Inserting Carne al pastor (1lb)
+2020-12-12T03:00:36+00:00 DEBUG > Inserted - post ID is 37.
+2020-12-12T03:00:36+00:00 DEBUG > Finished importing post ID 37.
+2020-12-12T03:00:36+00:00 DEBUG Finished processing products.
+2020-12-12T03:00:36+00:00 DEBUG ---[ New Import ] PHP Memory: 384 MB, WP Memory: 40 MB
+2020-12-12T03:00:36+00:00 DEBUG Parsing products CSV.
+2020-12-12T03:00:36+00:00 DEBUG Finished parsing products CSV.
+2020-12-12T03:00:36+00:00 DEBUG ---
+2020-12-12T03:00:36+00:00 DEBUG Processing products.
+2020-12-12T03:00:36+00:00 DEBUG > Row 1 - preparing for import.
+2020-12-12T03:00:36+00:00 DEBUG > Inserting Pollo Tingas (1lb)
+2020-12-12T03:00:36+00:00 DEBUG > Inserted - post ID is 38.
+2020-12-12T03:00:37+00:00 DEBUG > Finished importing post ID 38.
+2020-12-12T03:00:37+00:00 DEBUG > Row 2 - preparing for import.
+2020-12-12T03:00:37+00:00 DEBUG > Inserting Pulled pork (1lb)
+2020-12-12T03:00:37+00:00 DEBUG > Inserted - post ID is 39.
+2020-12-12T03:00:37+00:00 DEBUG > Finished importing post ID 39.
+2020-12-12T03:00:37+00:00 DEBUG > Row 3 - preparing for import.
+2020-12-12T03:00:37+00:00 DEBUG > Inserting Pulled buffalo chicken (1lb)
+2020-12-12T03:00:37+00:00 DEBUG > Inserted - post ID is 40.
+2020-12-12T03:00:37+00:00 DEBUG > Finished importing post ID 40.
+2020-12-12T03:00:37+00:00 DEBUG > Row 4 - preparing for import.
+2020-12-12T03:00:37+00:00 DEBUG > Inserting Pulled chicken (1lb)
+2020-12-12T03:00:37+00:00 DEBUG > Inserted - post ID is 41.
+2020-12-12T03:00:37+00:00 DEBUG > Finished importing post ID 41.
+2020-12-12T03:00:37+00:00 DEBUG > Row 5 - preparing for import.
+2020-12-12T03:00:37+00:00 DEBUG > Inserting Coleslaw (1 L) 
+2020-12-12T03:00:37+00:00 DEBUG > Inserted - post ID is 42.
+2020-12-12T03:00:37+00:00 DEBUG > Finished importing post ID 42.
+2020-12-12T03:00:37+00:00 DEBUG > Row 6 - preparing for import.
+2020-12-12T03:00:37+00:00 DEBUG > Inserting Pulled Tikka Massala 
+2020-12-12T03:00:37+00:00 DEBUG > Inserted - post ID is 43.
+2020-12-12T03:00:38+00:00 DEBUG > Finished importing post ID 43.
+2020-12-12T03:00:38+00:00 DEBUG > Row 7 - preparing for import.
+2020-12-12T03:00:38+00:00 DEBUG > Inserting BBQ ribs
+2020-12-12T03:00:38+00:00 DEBUG > Inserted - post ID is 44.
+2020-12-12T03:00:38+00:00 DEBUG > Finished importing post ID 44.
+2020-12-12T03:00:38+00:00 DEBUG > Row 8 - preparing for import.
+2020-12-12T03:00:38+00:00 DEBUG > Inserting Salsa Alfredo (500ml)
+2020-12-12T03:00:38+00:00 DEBUG > Inserted - post ID is 45.
+2020-12-12T03:00:38+00:00 DEBUG > Finished importing post ID 45.
+2020-12-12T03:00:38+00:00 DEBUG > Row 9 - preparing for import.
+2020-12-12T03:00:38+00:00 DEBUG > Inserting Salsa champiñones (500ml)
+2020-12-12T03:00:38+00:00 DEBUG > Inserted - post ID is 46.
+2020-12-12T03:00:38+00:00 DEBUG > Finished importing post ID 46.
+2020-12-12T03:00:38+00:00 DEBUG > Row 10 - preparing for import.
+2020-12-12T03:00:38+00:00 DEBUG > Inserting Salsa pomodoro (500ml)
+2020-12-12T03:00:39+00:00 DEBUG > Inserted - post ID is 47.
+2020-12-12T03:00:39+00:00 DEBUG > Finished importing post ID 47.
+2020-12-12T03:00:39+00:00 DEBUG Finished processing products.
+2020-12-12T03:00:39+00:00 DEBUG ---[ New Import ] PHP Memory: 384 MB, WP Memory: 40 MB
+2020-12-12T03:00:39+00:00 DEBUG Parsing products CSV.
+2020-12-12T03:00:39+00:00 DEBUG Finished parsing products CSV.
+2020-12-12T03:00:39+00:00 DEBUG ---
+2020-12-12T03:00:39+00:00 DEBUG Processing products.
+2020-12-12T03:00:39+00:00 DEBUG > Row 1 - preparing for import.
+2020-12-12T03:00:39+00:00 DEBUG > Inserting Salsa sofrito (500ml)
+2020-12-12T03:00:39+00:00 DEBUG > Inserted - post ID is 48.
+2020-12-12T03:00:40+00:00 DEBUG > Finished importing post ID 48.
+2020-12-12T03:00:40+00:00 DEBUG > Row 2 - preparing for import.
+2020-12-12T03:00:40+00:00 DEBUG > Inserting Salsa vodka (500ml)
+2020-12-12T03:00:40+00:00 DEBUG > Inserted - post ID is 49.
+2020-12-12T03:00:40+00:00 DEBUG > Finished importing post ID 49.
+2020-12-12T03:00:40+00:00 DEBUG > Row 3 - preparing for import.
+2020-12-12T03:00:40+00:00 DEBUG > Inserting Salsa pimienta (500ml)
+2020-12-12T03:00:40+00:00 DEBUG > Inserted - post ID is 50.
+2020-12-12T03:00:40+00:00 DEBUG > Finished importing post ID 50.
+2020-12-12T03:00:40+00:00 DEBUG > Row 4 - preparing for import.
+2020-12-12T03:00:40+00:00 DEBUG > Inserting Salsa tamarindo (500ml)
+2020-12-12T03:00:40+00:00 DEBUG > Inserted - post ID is 51.
+2020-12-12T03:00:40+00:00 DEBUG > Finished importing post ID 51.
+2020-12-12T03:00:40+00:00 DEBUG > Row 5 - preparing for import.
+2020-12-12T03:00:40+00:00 DEBUG > Inserting Ravioles (1L)
+2020-12-12T03:00:40+00:00 DEBUG > Inserted - post ID is 52.
+2020-12-12T03:00:40+00:00 DEBUG > Finished importing post ID 52.
+2020-12-12T03:00:40+00:00 DEBUG > Row 6 - preparing for import.
+2020-12-12T03:00:40+00:00 DEBUG > Inserting Brownies
+2020-12-12T03:00:40+00:00 DEBUG > Inserted - post ID is 53.
+2020-12-12T03:00:40+00:00 DEBUG > Finished importing post ID 53.
+2020-12-12T03:00:40+00:00 DEBUG > Row 7 - preparing for import.
+2020-12-12T03:00:40+00:00 DEBUG > Inserting Torta de elote
+2020-12-12T03:00:40+00:00 DEBUG > Inserted - post ID is 54.
+2020-12-12T03:00:41+00:00 DEBUG > Finished importing post ID 54.
+2020-12-12T03:00:41+00:00 DEBUG > Row 8 - preparing for import.
+2020-12-12T03:00:41+00:00 DEBUG > Inserting Mousse de nutella
+2020-12-12T03:00:41+00:00 DEBUG > Inserted - post ID is 55.
+2020-12-12T03:00:41+00:00 DEBUG > Finished importing post ID 55.
+2020-12-12T03:00:41+00:00 DEBUG > Row 9 - preparing for import.
+2020-12-12T03:00:41+00:00 DEBUG > Inserting Pastel de zanahoria
+2020-12-12T03:00:41+00:00 DEBUG > Inserted - post ID is 56.
+2020-12-12T03:00:41+00:00 DEBUG > Finished importing post ID 56.
+2020-12-12T03:00:41+00:00 DEBUG > Row 10 - preparing for import.
+2020-12-12T03:00:41+00:00 DEBUG > Inserting Lava cakes 
+2020-12-12T03:00:41+00:00 DEBUG > Inserted - post ID is 57.
+2020-12-12T03:00:41+00:00 DEBUG > Finished importing post ID 57.
+2020-12-12T03:00:41+00:00 DEBUG Finished processing products.
+2020-12-12T03:00:42+00:00 DEBUG ---[ New Import ] PHP Memory: 384 MB, WP Memory: 40 MB
+2020-12-12T03:00:42+00:00 DEBUG Parsing products CSV.
+2020-12-12T03:00:42+00:00 DEBUG Finished parsing products CSV.
+2020-12-12T03:00:42+00:00 DEBUG ---
+2020-12-12T03:00:42+00:00 DEBUG Processing products.
+2020-12-12T03:00:42+00:00 DEBUG > Row 1 - preparing for import.
+2020-12-12T03:00:42+00:00 DEBUG > Inserting Pie de pecanas
+2020-12-12T03:00:42+00:00 DEBUG > Inserted - post ID is 58.
+2020-12-12T03:00:42+00:00 DEBUG > Finished importing post ID 58.
+2020-12-12T03:00:42+00:00 DEBUG > Row 2 - preparing for import.
+2020-12-12T03:00:42+00:00 DEBUG > Inserting Rice krises
+2020-12-12T03:00:42+00:00 DEBUG > Inserted - post ID is 59.
+2020-12-12T03:00:42+00:00 DEBUG > Finished importing post ID 59.
+2020-12-12T03:00:42+00:00 DEBUG Finished processing products.
